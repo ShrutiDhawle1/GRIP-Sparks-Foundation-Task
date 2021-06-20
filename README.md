@@ -38,11 +38,13 @@ COMPUTER VISION AND IOT
 
 Task2:-
 Color Identification in Images
+
 ● Implement an image color detector which identifies all the colors in an
 image or video.
 
 Task4:-
 Detection of face mask
+
 ● Implement a real time face mask detector.
 
 

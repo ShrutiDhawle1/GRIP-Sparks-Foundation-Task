@@ -1,4 +1,5 @@
 # GRIP-Sparks-Foundation-Task
+DATA SCIENCE AND BUSINESS ANALYST
 
 Task1:-
 Prediction using Supervised ML-->
@@ -32,3 +33,16 @@ Prediction using Decision Tree Algorithm-->
 ● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 Dataset : https://bit.ly/3kXTdox
+
+COMPUTER VISION AND IOT
+
+Task2:-
+Color Identification in Images
+● Implement an image color detector which identifies all the colors in an
+image or video.
+
+Task4:-
+Detection of face mask
+● Implement a real time face mask detector.
+
+
